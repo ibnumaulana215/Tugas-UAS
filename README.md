@@ -17,3 +17,20 @@ penjelasan
      jika pilih 3 maka akan menjalankan pemograman pembayaran
      jika pilih 4 maka akan menjalankan pemograman kalkulator
 - setelah progam dijalankan maka akan muncul pilihan lagi ingin mengulang program atau tidak jika ya maka akan kembali kepilihan menu jika tidak program akan selesai (end)
+
+<p align="center">
+<img src="https://github.com/ibnumaulana215/Tugas-UAS/blob/master/Tugas%20UAS/Flowcarht%20image/output%20Menu%20Import%20Gajih.jpg"
+width="850" />
+
+<p align="center">
+<img src="https://github.com/ibnumaulana215/Tugas-UAS/blob/master/Tugas%20UAS/Flowcarht%20image/output%20menu%20import%20inputan%20Nilai.jpg"
+width="850" />
+
+<p align="center">
+<img src="https://github.com/ibnumaulana215/Tugas-UAS/blob/master/Tugas%20UAS/Flowcarht%20image/output%20menu%20import%20Pembayaran.jpg"
+width="850" />
+
+<p align="center">
+<img src="https://github.com/ibnumaulana215/Tugas-UAS/blob/master/Tugas%20UAS/Flowcarht%20image/output%20menu%20import%20Kalkulator.jpg"
+width="850" />
+
