@@ -13,7 +13,7 @@ penjelasan
 - jika sudah masuk login akan ke pilihan menu
    - pilih salah satu  program
      jika pilih 1 maka akan menjalankan pemograman pengajian 
-     jika pilih 2 maka akan menjalankan pemogramanput nilai
+     jika pilih 2 maka akan menjalankan pemograman input nilai
      jika pilih 3 maka akan menjalankan pemograman pembayaran
      jika pilih 4 maka akan menjalankan pemograman kalkulator
 - setelah progam dijalankan maka akan muncul pilihan lagi ingin mengulang program atau tidak jika ya maka akan kembali kepilihan menu jika tidak program akan selesai (end)
